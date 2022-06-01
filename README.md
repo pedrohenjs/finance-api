@@ -1,4 +1,4 @@
-# finanse-api
+# finance-api
 Uma API que comunica cliente e servidor para o cadastro de uma conta em um sistema financeiro.
 
 ### Features
